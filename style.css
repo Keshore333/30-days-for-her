@@ -6,7 +6,7 @@
 }
 
 body {
-  background: radial-gradient(circle at top, #ffe6f2, #fff);
+  background: radial-gradient(circle at top, #ffe0f2, #fff);
   min-height: 100vh;
   display: flex;
   justify-content: center;
@@ -33,13 +33,20 @@ body {
 
 .header p {
   font-size: 0.95rem;
-  opacity: 0.8;
+  opacity: 0.85;
 }
 
 .days-section h2 {
   font-size: 1.2rem;
-  margin-bottom: 12px;
+  margin-bottom: 6px;
   text-align: center;
+}
+
+.days-subtitle {
+  text-align: center;
+  font-size: 0.85rem;
+  opacity: 0.8;
+  margin-bottom: 14px;
 }
 
 .days-grid {
@@ -56,7 +63,7 @@ body {
   cursor: pointer;
   backdrop-filter: blur(8px);
   border: 1px solid #f5cfe3;
-  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease, opacity 0.15s ease;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -69,6 +76,17 @@ body {
   border-color: #f09bc8;
 }
 
+.day-card.locked {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.day-card.locked:hover {
+  transform: none;
+  box-shadow: none;
+  border-color: #f5cfe3;
+}
+
 .day-number {
   font-weight: 600;
   font-size: 0.95rem;
@@ -79,6 +97,14 @@ body {
   font-size: 0.8rem;
   opacity: 0.8;
 }
+
+.day-status {
+  margin-top: 4px;
+  font-size: 0.7rem;
+  opacity: 0.7;
+}
+
+/* modals */
 
 .modal-overlay {
   position: fixed;
@@ -133,6 +159,163 @@ body {
   font-size: 0.95rem;
   line-height: 1.6;
   white-space: pre-line;
+}
+
+/* puzzle modal */
+
+.puzzle-modal {
+  max-width: 480px;
+}
+
+.puzzle-hint {
+  font-size: 0.85rem;
+  text-align: center;
+  background: #ffeaa7;
+  padding: 8px 10px;
+  border-radius: 999px;
+  margin-bottom: 14px;
+}
+
+.puzzle-grid {
+  display: grid;
+  grid-template-rows: repeat(6, 1fr);
+  gap: 6px;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.puzzle-row {
+  display: grid;
+  gap: 6px;
+  justify-content: center;
+}
+
+.puzzle-tile {
+  width: 38px;
+  height: 38px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 1rem;
+  text-transform: uppercase;
+  background: #fafafa;
+}
+
+.tile-correct {
+  background: #6aaa64;
+  border-color: #6aaa64;
+  color: #fff;
+}
+
+.tile-present {
+  background: #c9b458;
+  border-color: #c9b458;
+  color: #fff;
+}
+
+.tile-absent {
+  background: #787c7e;
+  border-color: #787c7e;
+  color: #fff;
+}
+
+.puzzle-message {
+  text-align: center;
+  font-size: 0.8rem;
+  min-height: 18px;
+  margin-bottom: 8px;
+}
+
+/* keyboard */
+
+.keyboard {
+  display: grid;
+  grid-template-columns: repeat(10, minmax(24px, 1fr));
+  gap: 6px;
+  justify-content: center;
+}
+
+.key {
+  padding: 6px 4px;
+  border-radius: 8px;
+  border: none;
+  background: #e0e0e0;
+  font-size: 0.75rem;
+  font-weight: 600;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.key-wide {
+  grid-column: span 2;
+}
+
+.key-correct {
+  background: #6aaa64;
+  color: #fff;
+}
+
+.key-present {
+  background: #c9b458;
+  color: #fff;
+}
+
+.key-absent {
+  background: #787c7e;
+  color: #fff;
+}
+
+/* hearts */
+
+#hearts-container {
+  pointer-events: none;
+  position: fixed;
+  inset: 0;
+  overflow: hidden;
+  z-index: 999;
+}
+
+.heart {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  background: #ff5e9c;
+  transform: rotate(45deg);
+  animation: floatUp 1.4s ease-out forwards;
+}
+
+.heart::before,
+.heart::after {
+  content: "";
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  background: #ff5e9c;
+  border-radius: 50%;
+}
+
+.heart::before {
+  top: -9px;
+  left: 0;
+}
+
+.heart::after {
+  left: -9px;
+  top: 0;
+}
+
+@keyframes floatUp {
+  0% {
+    opacity: 1;
+    transform: translateY(0) rotate(45deg) scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-60px) rotate(45deg) scale(0.6);
+  }
 }
 
 @media (min-width: 768px) {
