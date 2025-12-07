@@ -48,7 +48,7 @@ const puzzleConfig = {
 
 /* ---------- PROGRESS + 12-HOUR UNLOCK LOGIC ---------- */
 
-const HOURS_LOCK = 12;
+const HOURS_LOCK = 0.003;
 const MS_PER_HOUR = 1000 * 60 * 60;
 
 let solvedDays = JSON.parse(localStorage.getItem("solvedDays") || "{}");
