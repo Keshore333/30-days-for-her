@@ -16,11 +16,13 @@
     <main>
       <section class="days-section">
         <h2>Open a day</h2>
+        <p class="days-subtitle">Solve the puzzle to unlock each love letter 💌</p>
         <div id="days-grid" class="days-grid"></div>
       </section>
     </main>
   </div>
 
+  <!-- Love-letter modal -->
   <div id="modal-overlay" class="modal-overlay hidden">
     <div class="modal">
       <button id="close-modal" class="close-button">×</button>
@@ -29,6 +31,24 @@
       <div id="modal-content" class="modal-content"></div>
     </div>
   </div>
+
+  <!-- Wordle puzzle modal -->
+  <div id="puzzle-overlay" class="modal-overlay hidden">
+    <div class="modal puzzle-modal">
+      <button id="close-puzzle" class="close-button">×</button>
+      <h2 id="puzzle-title">Unlock Day</h2>
+      <p id="puzzle-hint" class="puzzle-hint"></p>
+
+      <div id="puzzle-grid" class="puzzle-grid"></div>
+
+      <p id="puzzle-message" class="puzzle-message"></p>
+
+      <div id="keyboard" class="keyboard"></div>
+    </div>
+  </div>
+
+  <!-- Floating hearts effect -->
+  <div id="hearts-container"></div>
 
   <script src="script.js"></script>
 </body>
