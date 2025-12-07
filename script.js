@@ -126,15 +126,20 @@ function createDayCards() {
     const isSolved = !!solvedDays[day];
 
     if (!canOpen) {
-      card.classList.add("locked");
-      status.textContent = remainingText
-        ? `Next love letter in ${remainingText} 😏`
-        : "You unlocked everything for now 😏";
-    } else if (isSolved) {
-      status.textContent = "Unlocked 💌";
-    } else {
-      status.textContent = "Solve the puzzle to unlock";
-    }
+  card.classList.add("locked");
+
+  // Only the *next* day shows the countdown
+  if (day === maxUnlockedDay + 1 && remainingText) {
+    status.textContent = `Next love letter in ${remainingText} 😏`;
+  } else {
+    status.textContent = "Locked for later 😏";
+  }
+} else if (isSolved) {
+  status.textContent = "Unlocked 💌";
+} else {
+  status.textContent = "Solve the puzzle to unlock";
+}
+
 
     card.appendChild(number);
     card.appendChild(title);
