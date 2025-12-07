@@ -1,45 +1,35 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>30 Days Closer To You</title>
-    <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
-    <header>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>30 Days Closer To You</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="page">
+    <header class="header">
       <h1>30 Days Closer To You</h1>
-      <p>Since you're away, I made you a little world to visit every day.</p>
+      <p>Since you are away, I made you a little world to visit every day.</p>
     </header>
 
-    <section id="progress-section">
-      <p id="day-text">Day 1 of 30</p>
-      <div id="progress-bar-wrap">
-        <div id="progress-bar-fill"></div>
-      </div>
-    </section>
+    <main>
+      <section class="days-section">
+        <h2>Open a day</h2>
+        <div id="days-grid" class="days-grid"></div>
+      </section>
+    </main>
+  </div>
 
-    <section id="days-grid">
-      <!-- JS will fill this with 30 day cards -->
-    </section>
-
-    <section id="memory-box">
-      <h2>Memory Box</h2>
-      <div id="memory-items">
-        <!-- JS will add items as she opens days -->
-      </div>
-    </section>
-
-    <!-- Popup / Modal -->
-    <div id="modal-overlay" class="hidden">
-      <div id="modal">
-        <button id="close-modal">×</button>
-        <h2 id="modal-title"></h2>
-        <p id="modal-type"></p>
-        <div id="modal-content"></div>
-      </div>
+  <div id="modal-overlay" class="modal-overlay hidden">
+    <div class="modal">
+      <button id="close-modal" class="close-button">×</button>
+      <h2 id="modal-title"></h2>
+      <p id="modal-type" class="modal-type"></p>
+      <div id="modal-content" class="modal-content"></div>
     </div>
+  </div>
 
-    <script src="script.js"></script>
-  </body>
+  <script src="script.js"></script>
+</body>
 </html>
-
