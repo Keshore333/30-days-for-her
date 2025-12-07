@@ -1,1 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>30 Days Closer To You</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <h1>30 Days Closer To You</h1>
+      <p>Since you're away, I made you a little world to visit every day.</p>
+    </header>
+
+    <section id="progress-section">
+      <p id="day-text">Day 1 of 30</p>
+      <div id="progress-bar-wrap">
+        <div id="progress-bar-fill"></div>
+      </div>
+    </section>
+
+    <section id="days-grid">
+      <!-- JS will fill this with 30 day cards -->
+    </section>
+
+    <section id="memory-box">
+      <h2>Memory Box</h2>
+      <div id="memory-items">
+        <!-- JS will add items as she opens days -->
+      </div>
+    </section>
+
+    <!-- Popup / Modal -->
+    <div id="modal-overlay" class="hidden">
+      <div id="modal">
+        <button id="close-modal">×</button>
+        <h2 id="modal-title"></h2>
+        <p id="modal-type"></p>
+        <div id="modal-content"></div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
 
