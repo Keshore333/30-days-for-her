@@ -29,6 +29,28 @@ days[0] = {
 
 Your handsome BF`
 };
+// Day 2 custom content
+days[1] = {
+  day: 2,
+  title: "3 Tiny Memories",
+  type: "Memory",
+  content: `Hey baby,
+
+Today I want to talk about the **small things** — not the big ones.
+Some subtle things that might go unnoticed, but i noticed.
+
+1) [Memory 1 — The way you hold my hand. Especially, the way you caress my fingers with your thumb. 
+I love it so much. I take it as you telling me that you love me in a subtle way.]
+2) [Memory 2 — The day you slapped me 😂. Now look, it wasnt even that hard nor did it hurt. but you kept on apologizing for it.
+I actually loved that we had that moment. For me, that was Love too.]
+3) [Memory 3 — I think i haven't said this before but i love that whenever we meet, your whole face lights up and you either grab my cheeks and say you missed me.
+or you give me a kiss on the cheeks. Look, if im being honest, i hate how my cheeks look so chubby and you doing that makes me feel like a baby. But I LOVE IT.
+You love me in ways that i dont love myself. I hope you dont stop.]
+
+These are some tiny memories, or moments that came to my mind rn. There's a lot more i think but not for now. 
+
+I love you baby [tight hug].`
+};
 
 /* ---------- PUZZLE CONFIG (you MUST edit words + hints) ---------- */
 /* Word must be UPPERCASE, only letters, no spaces. */
