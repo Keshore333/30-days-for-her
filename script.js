@@ -10,6 +10,18 @@ const days = Array.from({ length: 30 }, (_, i) => {
   };
 });
 
+// Day 1 custom content
+days[0] = {
+  day: 1,
+  title: "Why I Made This",
+  type: "Letter",
+  content: `Hey love,
+
+[YOUR LETTER HERE]
+
+I love you.`
+};
+
 /* ---------- PUZZLE CONFIG (you MUST edit words + hints) ---------- */
 /* Word must be UPPERCASE, only letters, no spaces. */
 
