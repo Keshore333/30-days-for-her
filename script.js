@@ -15,11 +15,19 @@ days[0] = {
   day: 1,
   title: "Why I Made This",
   type: "Letter",
-  content: `Hey love,
+  content: `Hii ushashree,
+  i know how much you wanted to go back to your hometown and how much you dread being there now. 
+  so, i made this site for you. I hope this will get you through this month. 
+  Look, im not a coder, so, dont expect much from this site 😅. 
+  I know how much you miss me, and I the same.
+  Dont worry about anything okay?? In no time we'll see eachother 😉.
+  Also, dont argue with your mom.
+  I can imagine her being a pain in the ass sometimes, but dont spoil your mood with that.
+  If something did happen, just text me or call me. 
+  Even if you dont wanna talk about it, its okay... just call me and stay silent.
+  I love you my baby. Don't ever doubt that.
 
-[YOUR LETTER HERE]
-
-I love you.`
+Your handsome BF`
 };
 
 /* ---------- PUZZLE CONFIG (you MUST edit words + hints) ---------- */
