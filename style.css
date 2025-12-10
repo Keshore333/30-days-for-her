@@ -115,6 +115,52 @@ body {
   align-items: center;
   padding: 16px;
 }
+/* ------------ FIX MODAL SCROLLING + LAYOUT ------------ */
+
+/* The modal box itself */
+.modal {
+  background: #fff;
+  max-width: 520px;
+  width: 100%;
+  border-radius: 20px;
+  padding: 20px 20px 22px;
+  position: relative;
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.18);
+
+  /* Important for scrolling */
+  max-height: 80vh;         
+  overflow: hidden;           
+  display: flex;
+  flex-direction: column;
+}
+
+/* Only the inside content scrolls */
+.modal-content {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  white-space: normal;
+
+  /* SCROLL ENABLED */
+  overflow-y: auto;                  
+
+  /* Height fits nicely inside modal */
+  max-height: calc(80vh - 120px);
+
+  padding-right: 6px; /* prevents scrollbar covering text */
+}
+
+/* Nice spacing around photo blocks */
+.modal-content figure {
+  margin: 12px 0;
+}
+
+/* Make images responsive, rounded */
+.modal-content img {
+  display: block;
+  max-width: 100%;
+  border-radius: 12px;
+  margin: 12px auto;
+}
 
 .hidden {
   display: none;
