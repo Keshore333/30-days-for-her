@@ -76,8 +76,9 @@ days[2] = {
     </figure>
 
     <figure>
-      <img src="media/images/day3-pic3.jpg" class="letter-image" alt="Photo 3">
-      <figcaption><strong>Photo 3 —</strong> [Write why this moment still makes you smile]</figcaption>
+      <img src="media/images/IMG-20251210-WA0003.jpg" class="letter-image" alt="Photo 3">
+      <figcaption><strong>Photo 3 —</strong> [This was a no Brainer. Ofcourse this had to be included.. The night we became one. Lmao, how fucking corney is sounds 🤣. 
+      Thats the closest i've ever been physically to anyone. AHHHH, what i would do to lay on your chest naked like that]</figcaption>
     </figure>
 
     <figure>
