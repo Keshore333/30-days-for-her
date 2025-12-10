@@ -88,8 +88,9 @@ days[2] = {
     </figure>
 
     <figure>
-      <img src="media/images/day3-pic5.jpg" class="letter-image" alt="Photo 5">
-      <figcaption><strong>Photo 5 —</strong> [Write what you wish you could do again right now]</figcaption>
+      <img src="media/images/IMG-20251210-WA0005.jpg" class="letter-image" alt="Photo 5">
+      <figcaption><strong>Photo 5 —</strong> [Ahh yesss, the Diwali night. How could i leave this out. Our first night out. I was really hoping to make sure you had a wonderful night..
+      because you told me diwali was one of your fav festivals. and i think i succeeded. Everything about that day was PERFECT. I loved the fact that you were just happy to be there behind me and kept taking picsss.]</figcaption>
     </figure>
 
     <figure>
