@@ -94,12 +94,12 @@ days[2] = {
     </figure>
 
     <figure>
-      <img src="media/images/day3-pic6.jpg" class="letter-image" alt="Photo 6">
-      <figcaption><strong>Photo 6 —</strong> [Write a short promise related to this memory]</figcaption>
+      <img src="media/images/IMG-20251210-WA0006.jpg" class="letter-image" alt="Photo 6">
+      <figcaption><strong>Photo 6 —</strong> [HONOURABLE MENTION: come on, there's no explanation needed here hahaha. Look how cute you loook. All serious. 
+      This one is my fav out all the others 😂😘😘. HAHAAHHAHA. MWWAHHHHH]</figcaption>
     </figure>
 
-    <p>These are only six frames — but with you they became a whole movie.  
-    I love you.</p>
+    <p>We gotta create so much more memories Babyyy. I love you. Your Man.</p>
   `
 };
 
