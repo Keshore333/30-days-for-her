@@ -52,6 +52,52 @@ These are some tiny memories, or moments that came to my mind rn. There's a lot 
 I love you baby [tight hug].`
 };
 
+// Day 3 custom content - Photos + descriptions
+days[2] = {
+  day: 3,
+  title: "My Favourite Pictures of Us",
+  type: "Photo Memory",
+  content: `
+    <p>Hey ushashree,</p>
+
+    <p>Today I wanted to show you some pictures that i love.
+    For each photo I wrote a little note — as to why they are my fav.</p>
+
+    <figure>
+      <img src="media/images/day3-pic1.jpg" class="letter-image" alt="Photo 1">
+      <figcaption><strong>Photo 1 —</strong> [Write what you felt, one or two lines]</figcaption>
+    </figure>
+
+    <figure>
+      <img src="media/images/day3-pic2.jpg" class="letter-image" alt="Photo 2">
+      <figcaption><strong>Photo 2 —</strong> [Write a small detail she might not know you noticed]</figcaption>
+    </figure>
+
+    <figure>
+      <img src="media/images/day3-pic3.jpg" class="letter-image" alt="Photo 3">
+      <figcaption><strong>Photo 3 —</strong> [Write why this moment still makes you smile]</figcaption>
+    </figure>
+
+    <figure>
+      <img src="media/images/day3-pic4.jpg" class="letter-image" alt="Photo 4">
+      <figcaption><strong>Photo 4 —</strong> [Write the memory behind this photo, short & specific]</figcaption>
+    </figure>
+
+    <figure>
+      <img src="media/images/day3-pic5.jpg" class="letter-image" alt="Photo 5">
+      <figcaption><strong>Photo 5 —</strong> [Write what you wish you could do again right now]</figcaption>
+    </figure>
+
+    <figure>
+      <img src="media/images/day3-pic6.jpg" class="letter-image" alt="Photo 6">
+      <figcaption><strong>Photo 6 —</strong> [Write a short promise related to this memory]</figcaption>
+    </figure>
+
+    <p>These are only six frames — but with you they became a whole movie.  
+    I love you.</p>
+  `
+};
+
 /* ---------- PUZZLE CONFIG (you MUST edit words + hints) ---------- */
 /* Word must be UPPERCASE, only letters, no spaces. */
 
