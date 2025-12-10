@@ -64,8 +64,9 @@ days[2] = {
     For each photo I wrote a little note — as to why they are my fav.</p>
 
     <figure>
-      <img src="media/images/day3-pic1.jpg" class="letter-image" alt="Photo 1">
-      <figcaption><strong>Photo 1 —</strong> [Write what you felt, one or two lines]</figcaption>
+      <img src="media/images/IMG-20251210-WA0001.jpg" class="letter-image" alt="Photo 1">
+      <figcaption><strong>Photo 1 —</strong> [You know these reels where they say "Get yourself a girl who looks at you like this". 
+      Yeah, that is exactly what this is. You love me that much huhh baby?? hehe. Look at you, all "in love"...]</figcaption>
     </figure>
 
     <figure>
