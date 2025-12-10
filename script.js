@@ -65,38 +65,38 @@ days[2] = {
 
     <figure>
       <img src="media/images/IMG-20251210-WA0001.jpg" class="letter-image" alt="Photo 1">
-      <figcaption><strong>Photo 1 —</strong> [You know these reels where they say "Get yourself a girl who looks at you like this". 
-      Yeah, that is exactly what this is. You love me that much huhh baby?? hehe. Look at you, all "in love"...]</figcaption>
+      <figcaption><strong>Photo 1 —</strong> You know these reels where they say "Get yourself a girl who looks at you like this". 
+      Yeah, that is exactly what this is. You love me that much huhh baby?? hehe. Look at you, all "in love"...</figcaption>
     </figure>
 
     <figure>
       <img src="media/images/IMG-20251210-WA0002.jpg" class="letter-image" alt="Photo 2">
-      <figcaption><strong>Photo 2 —</strong> [Look how happy we both aree. This is what i mean when i say i love your laugh. The way you giggle, and i love that i can make you do that.
-      This night is easily one of the best i've had with you.. You looked soo sexyyy and gorgeousss. REALLYYY SEXYYYY.]</figcaption>
+      <figcaption><strong>Photo 2 —</strong> Look how happy we both aree. This is what i mean when i say i love your laugh. The way you giggle, and i love that i can make you do that.
+      This night is easily one of the best i've had with you.. You looked soo sexyyy and gorgeousss. REALLYYY SEXYYYY.</figcaption>
     </figure>
 
     <figure>
       <img src="media/images/IMG-20251210-WA0003.jpg" class="letter-image" alt="Photo 3">
-      <figcaption><strong>Photo 3 —</strong> [This was a no Brainer. Ofcourse this had to be included.. The night we became one. Lmao, how fucking corney is sounds 🤣. 
-      Thats the closest i've ever been physically to anyone. AHHHH, what i would do to lay on your chest naked like that]</figcaption>
+      <figcaption><strong>Photo 3 —</strong> This was a no Brainer. Ofcourse this had to be included.. The night we became one. Lmao, how fucking corney is sounds 🤣. 
+      Thats the closest i've ever been physically to anyone. AHHHH, what i would do to lay on your chest naked like that.</figcaption>
     </figure>
 
     <figure>
       <img src="media/images/IMG-20251210-WA0004.jpg" class="letter-image" alt="Photo 4">
-      <figcaption><strong>Photo 4 —</strong> [I think of this day often. The way you were vibing to those songs. I could see you dropping your guard around me.
-      The first time i saw you in a saree. I fell HARDDDD for you. We're definitely blasting songs and dance to them in the future.]</figcaption>
+      <figcaption><strong>Photo 4 —</strong> I think of this day often. The way you were vibing to those songs. I could see you dropping your guard around me.
+      The first time i saw you in a saree. I fell HARDDDD for you. We're definitely blasting songs and dance to them in the future.</figcaption>
     </figure>
 
     <figure>
       <img src="media/images/IMG-20251210-WA0005.jpg" class="letter-image" alt="Photo 5">
-      <figcaption><strong>Photo 5 —</strong> [Ahh yesss, the Diwali night. How could i leave this out. Our first night out. I was really hoping to make sure you had a wonderful night..
-      because you told me diwali was one of your fav festivals. and i think i succeeded. Everything about that day was PERFECT. I loved the fact that you were just happy to be there behind me and kept taking picsss.]</figcaption>
+      <figcaption><strong>Photo 5 —</strong> Ahh yesss, the Diwali night. How could i leave this out. Our first night out. I was really hoping to make sure you had a wonderful night..
+      because you told me diwali was one of your fav festivals. and i think i succeeded. Everything about that day was PERFECT. I loved the fact that you were just happy to be there behind me and kept taking picsss.</figcaption>
     </figure>
 
     <figure>
       <img src="media/images/IMG-20251210-WA0006.jpg" class="letter-image" alt="Photo 6">
-      <figcaption><strong>Photo 6 —</strong> [HONOURABLE MENTION: come on, there's no explanation needed here hahaha. Look how cute you loook. All serious. 
-      This one is my fav out all the others 😂😘😘. HAHAAHHAHA. MWWAHHHHH]</figcaption>
+      <figcaption><strong>Photo 6 —</strong> HONOURABLE MENTION: come on, there's no explanation needed here hahaha. Look how cute you loook. All serious. 
+      This one is my fav out all the others 😂😘😘. HAHAAHHAHA. MWWAHHHHH </figcaption>
     </figure>
 
     <p>We gotta create so much more memories Babyyy. I love you. Your Man.</p>
