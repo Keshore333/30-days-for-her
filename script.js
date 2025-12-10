@@ -82,8 +82,9 @@ days[2] = {
     </figure>
 
     <figure>
-      <img src="media/images/day3-pic4.jpg" class="letter-image" alt="Photo 4">
-      <figcaption><strong>Photo 4 —</strong> [Write the memory behind this photo, short & specific]</figcaption>
+      <img src="media/images/IMG-20251210-WA0004.jpg" class="letter-image" alt="Photo 4">
+      <figcaption><strong>Photo 4 —</strong> [I think of this day often. The way you were vibing to those songs. I could see you dropping your guard around me.
+      The first time i saw you in a saree. I fell HARDDDD for you. We're definitely blasting songs and dance to them in the future.]</figcaption>
     </figure>
 
     <figure>
