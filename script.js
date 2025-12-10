@@ -261,7 +261,7 @@ function createDayCards() {
 function openDayContent(item) {
   modalTitle.textContent = "Day " + item.day + " • " + item.title;
   modalType.textContent = item.type;
-  modalContent.textContent = item.content;
+  modalContent.innerHTML = item.content;
   modalOverlay.classList.remove("hidden");
 }
 
