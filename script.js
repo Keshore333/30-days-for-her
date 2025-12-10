@@ -70,8 +70,9 @@ days[2] = {
     </figure>
 
     <figure>
-      <img src="media/images/day3-pic2.jpg" class="letter-image" alt="Photo 2">
-      <figcaption><strong>Photo 2 —</strong> [Write a small detail she might not know you noticed]</figcaption>
+      <img src="media/images/IMG-20251210-WA0002.jpg" class="letter-image" alt="Photo 2">
+      <figcaption><strong>Photo 2 —</strong> [Look how happy we both aree. This is what i mean when i say i love your laugh. The way you giggle, and i love that i can make you do that.
+      This night is easily one of the best i've had with you.. You looked soo sexyyy and gorgeousss. REALLYYY SEXYYYY.]</figcaption>
     </figure>
 
     <figure>
