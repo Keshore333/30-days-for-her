@@ -206,6 +206,23 @@ body {
   line-height: 1.6;
   white-space: pre-line;
 }
+.letter-audio {
+  width: 100%;
+  margin: 12px 0;
+}
+.lyrics-block {
+  margin-top: 14px;
+  padding: 12px;
+  background: #f9f1f5; /* soft romantic pinkish background */
+  border-radius: 12px;
+  font-style: italic;
+  line-height: 1.6;
+}
+
+.lyrics-block p {
+  margin: 4px 0;
+}
+
 
 /* puzzle modal */
 
