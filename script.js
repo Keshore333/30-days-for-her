@@ -119,6 +119,40 @@ days[3] = {
       <source src="media/audio/PookalPookumTharunam.mp3" type="audio/mp3">
       Your browser doesn't support audio playback.
     </audio>
+    <div class="lyrics-block">
+      <p>“Vaarthai thevaillai, vaazhum kaalam varai,
+Paavai paarvai mozhi pesumae”
+No words are needed, not for as long as I live—
+Her doll-like gaze speaks a language of its own.
+
+“Netru thevaillai, naalai thevaillai
+Indru intha nodi pothumae”
+It wasn’t needed yesterday, nor will it be tomorrow.
+This moment today… is more than enough.
+
+“Verindri vithaindri vinthoovum mazhai indri
+Ithu enna ivan thottam poo pookuthae?”
+No roots, no seeds, no falling rain—
+Yet somehow, a flower has bloomed in his garden.
+
+“Vaalindri porindri valikindra yutha mindri
+Ithu enna ivanukkul ennai velluthae?”
+No living, no enduring, not even a battle with pain—
+So how is it that I’m losing myself inside him?
+
+“Idhayam muzhuthum irukum
+Intha thayakam, engu kondu niruthum?”
+This hesitation fills my entire heart—
+Where do I take it, where do I place it?
+
+“Ithai ariya engu kidaikum vilakam,
+Athu kidaithaal solla vendum enakum”
+Where can I find an answer for what I’m feeling?
+And if I ever find one, I must speak it too.
+
+“Poonthalireeeeehh…”
+Oh tender flower…</p>
+    </div>
 
     <p>Its not the best, ik. I just thought you'd wanna hear something RAW</p>
     <p>I love you, sweetheart.</p>
