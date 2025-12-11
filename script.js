@@ -127,7 +127,7 @@ Her doll-like gaze speaks a language of its own.
 
 “Netru thevaillai, naalai thevaillai
 Indru intha nodi pothumae”
-It wasn’t needed yesterday, nor will it be tomorrow.
+Yesterday isn't needed, nor does tomorrow.
 This moment today… is more than enough.
 
 “Verindri vithaindri vinthoovum mazhai indri
@@ -137,18 +137,18 @@ Yet somehow, a flower has bloomed in his garden.
 
 “Vaalindri porindri valikindra yutha mindri
 Ithu enna ivanukkul ennai velluthae?”
-No living, no enduring, not even a battle with pain—
+No swords, no war, not even a battle with pain—
 So how is it that I’m losing myself inside him?
 
 “Idhayam muzhuthum irukum
 Intha thayakam, engu kondu niruthum?”
 This hesitation fills my entire heart—
-Where do I take it, where do I place it?
+Where would it take me?
 
 “Ithai ariya engu kidaikum vilakam,
 Athu kidaithaal solla vendum enakum”
 Where can I find an answer for what I’m feeling?
-And if I ever find one, I must speak it too.
+And if you ever find one, you must tell me.
 
 “Poonthalireeeeehh…”
 Oh tender flower…</p>
@@ -197,7 +197,7 @@ const puzzleConfig = {
 
 /* ---------- PROGRESS + 12-HOUR UNLOCK LOGIC ---------- */
 
-const HOURS_LOCK = 0.001;
+const HOURS_LOCK = 18;
 const MS_PER_HOUR = 1000 * 60 * 60;
 
 let solvedDays = JSON.parse(localStorage.getItem("solvedDays") || "{}");
