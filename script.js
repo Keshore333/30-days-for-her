@@ -102,6 +102,28 @@ days[2] = {
     <p>We gotta create so much more memories Babyyy. I love you. Your Man.</p>
   `
 };
+// Day 4 custom content - Song for her
+days[3] = {
+  day: 4,
+  title: "A Song For You",
+  type: "Voice Note",
+  content: `
+    <p>Heyyy Lilu,</p>
+
+    <p>Today I wanted to give you something a little different — something you can <strong>hear</strong> instead of read.</p>
+
+    <p>I recorded this for you.  
+    Listen with your headphones… and tell me how it made you feel.</p>
+
+    <audio controls class="letter-audio">
+      <source src="" type="audio/mp3">
+      Your browser doesn't support audio playback.
+    </audio>
+
+    <p>I hope my voice reaches you even when I'm far.</p>
+    <p>I love you.</p>
+  `
+};
 
 /* ---------- PUZZLE CONFIG (you MUST edit words + hints) ---------- */
 /* Word must be UPPERCASE, only letters, no spaces. */
