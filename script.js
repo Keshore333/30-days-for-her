@@ -158,6 +158,39 @@ Oh tender flower…</p>
     <p>I love you, sweetheart.</p>
   `
 };
+// Day 5 custom content - 6 Questions
+days[4] = {
+  day: 5,
+  title: "Six Questions For You",
+  type: "Interactive",
+  content: `
+    <p>Hey Ushashree,</p>
+
+    <p>Today I don’t want to talk <em>at</em> you.  
+    I want to talk <strong>with</strong> you.</p>
+
+    <p>So here are some questions — some to make you laugh, some to make you think, and one or two that might make you blush.</p>
+
+    <ol>
+      <li><strong>[Question 1]</strong> — If i was a cartoon character, what would i be and why? (sent me the pic).</li>
+      <li><strong>[Question 2]</strong> — What is something that i did before, that if didn't do, you might not fell for me? (i dont want basic answer like "ask me out on a date").</li>
+      <li><strong>[Question 3]</strong> — What's something you've wanted to tell me, but didnt know how to say it?.</li>
+      <li><strong>[Question 4]</strong> — When you imagine 'us' in the future, what's the image that appears?</li>
+      <li><strong>[Question 5]</strong> — What are the things that you saw as red flags in me at first, but then it wasn't true?</li>
+      <li><strong>[Question 6]</strong> — What’s something I do that makes your brain stop working for a second?</li>
+      <li><strong>[Question 7]</strong> — What’s a small dream involving us that you’ve never told me?</li>
+      <li><strong>[Question 8]</strong> — What’s one ‘first time’ with me that you secretly look forward to?</li>
+      <li><strong>[Question 9]</strong> — What’s one small thing I do that you’d miss if I stopped?</li>
+      <li><strong>[Question 10]</strong> — Which moment between us felt unreal, like it wasn’t supposed to happen but it did?</li>
+    </ol>
+
+    <p>I'm looking forward to your answer.  
+    There’s no right or wrong — I just want to know what your heart says.</p>
+
+    <p>I love you.</p>
+  `
+};
+
 
 /* ---------- PUZZLE CONFIG (you MUST edit words + hints) ---------- */
 /* Word must be UPPERCASE, only letters, no spaces. */
