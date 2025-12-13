@@ -190,6 +190,35 @@ days[4] = {
     <p>I love you.</p>
   `
 };
+// Day 6 custom content - 10 Things I Love About You
+days[5] = {
+  day: 6,
+  title: "10 Things I Love About You",
+  type: "List",
+  content: `
+    <p>Jiii pookieee,</p>
+
+    <p>Today I wanted to tell you something simple but true —  
+    these are ten things I love about you, and I don't think you even realize them.</p>
+
+    <ol>
+      <li><strong>[Thing 1]</strong> — The way you squint your eyes everytime i try to hold you face.</li>
+      <li><strong>[Thing 2]</strong> — I had to say this again even though you might already know this.. YOUR ACCENT (TREEEEE).</li>
+      <li><strong>[Thing 3]</strong> — The smell of your forehead.</li>
+      <li><strong>[Thing 4]</strong> — How you prioritize you work.</li>
+      <li><strong>[Thing 5]</strong> — How obsessed you are with me. And how jealous you get easily. I LOVE IT.</li>
+      <li><strong>[Thing 6]</strong> — How you react whenever i try to grab your boobs or ass in public. Hehe.</li>
+      <li><strong>[Thing 7]</strong> — The shape of your body. Ufffff. Your curves....</li>
+      <li><strong>[Thing 8]</strong> — How content you are with what you have, and what we have.</li>
+      <li><strong>[Thing 9]</strong> — How soft your skin is. and your hands... If i were to die, i'd probably wanna do so in like a mountain or some scenic place. or in your arms 😅</li>
+      <li><strong>[Thing 10]</strong> — I love that one very small mole below your right eye bag.</li>
+    </ol>
+
+    <p>I could just go onnn but it's enough for now. Dont want you to show too much cock.</p>
+
+    <p>I love you bebweeiiii</p>
+  `
+};
 
 
 /* ---------- PUZZLE CONFIG (you MUST edit words + hints) ---------- */
