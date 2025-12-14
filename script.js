@@ -161,7 +161,7 @@ Oh tender flower…</p>
 // Day 5 custom content - 6 Questions
 days[4] = {
   day: 5,
-  title: "Six Questions For You",
+  title: "Questions For You",
   type: "Interactive",
   content: `
     <p>Hey Ushashree,</p>
