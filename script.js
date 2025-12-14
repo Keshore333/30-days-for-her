@@ -240,7 +240,10 @@ days[6] = {
     <p>5. I was never sure of anything except you. I would sacrifice my dreams if it means i'll end up with you. </p>
 
     <p>That’s all for today.  
-    I just wanted you to hear my voice in your head for a second.</p>
+    I just wanted you to hear my voice in your head for a second. 
+    EDIT: I've realised something baby.. In this relationship, you've shown your body more than you've recieved flowers from me. And that.. bothers me.
+    I don't want you to think that i care more about lust than love. Or that this relationship is lust driven. 
+    So, from here on. I'm not gonna ask you to send me anything, just for a while.</p>
 
     <p>I love you my baby.</p>
   `
