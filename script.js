@@ -219,6 +219,33 @@ days[5] = {
     <p>I love you bebweeiiii</p>
   `
 };
+// Day 7 custom content - Simple Letter
+days[6] = {
+  day: 7,
+  title: "Just Me, Talking to You",
+  type: "Letter",
+  content: `
+    <p>Hey baby,</p>
+
+    <p>I saw a few verses that reminded me of you and i just tell them to you in my own way.</p>
+
+    <p>1. When i finally give you the world, I'm sure I'll still owe you.</p>
+
+    <p>2. If i knew that you existed and that one day, you would come here... I'd have never even looked at any women.</p>
+
+    <p>3. Your skin makes me feel forgiven for all my past sins.</p>
+
+    <p>4. My memories are limited, but take as many as you want. </p>
+
+    <p>5. I was never sure of anything except you. I would sacrifice my dreams if it means i'll end up with you. </p>
+
+    <p>That’s all for today.  
+    I just wanted you to hear my voice in your head for a second.</p>
+
+    <p>I love you my baby.</p>
+  `
+};
+
 
 
 /* ---------- PUZZLE CONFIG (you MUST edit words + hints) ---------- */
@@ -231,8 +258,8 @@ const puzzleConfig = {
   4: { word: "HUG", hint: "What we both need" },
   5: { word: "THEATRE", hint: "Where i said i love you for the first time" },
   6: { word: "STM", hint: "Our favourite spot" },
-  7: { word: "MUSLIM", hint: "Someone you hate" },
-  8: { word: "HOME", hint: "What being with you feels like (4 letters)" },
+  7: { word: "HOME", hint: "What being with you feels like (4 letters)" },
+  8: { word: "MUSLIM", hint: "Someone you hate" },
   9: { word: "STARE", hint: "What I do when I look at you" },
   10:{ word: "FRIEDRICE", hint: "What we ate on the night of our first time" },
   11:{ word: "GODDESS", hint: "What do i say you look like" },
