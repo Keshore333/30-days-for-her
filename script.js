@@ -249,6 +249,37 @@ days[6] = {
   `
 };
 
+// Day 8 custom content - If you were here
+days[7] = {
+  day: 8,
+  title: "Things i wanna do to you",
+  type: "Wanting",
+  content: `
+    <p>These are the things i wanna do to you soo baddd.</p>
+
+    <p> Hold your face with my hands. And kiss you all over your face.</p>
+    <p> Kiss your fingers one by one.</p>
+    <p> Run my hands across your waist while kissing you.</p>
+    <p> Lift your shirt up, look up at you and slowly kiss your nipples. Lick them. And suck on them.</p>
+    <p> Bury my face in your pussy while you crush my head between your thighs.</p>
+    <p> Slide my finger inside you and watch you squirm.</p>
+    <p> Make you get on your knees and let you kiss my dick.</p>
+    <p> Slap you across your face and shove my dick in your mouth.</p>
+    <p> Push your head all the way into my dick. Hear you gag. Ask you questions like "are you my good girl?" and see you answer them with sounds while you suck me hard.</p>
+    <p> Slide my dick inside you, your legs wrapped around my waist, and fuck you to show my much i love you.</p>
+    <p> Put your legs on my shoulder and go even deeper in you. Look you in the eye and fuck you like you're my slut.</p>
+    <p> Turn you against your belly and pound you in doggy while choking your neck. Slap your ass so hard that it leaves a print.</p>
+    <p> Lay on my back and let you ride me. Watch your throbbing pussy squirt all over my dick.</p>
+    <p> Finally, fuck you soo HARD in missionary while choking you, till you feel like blacking out and can't remember your name. Finish inside you and tell you how much i love you.</p>
+
+    
+
+    <p>That’s it.  
+    Nothing dramatic.</p>
+  `
+};
+
+
 
 
 /* ---------- PUZZLE CONFIG (you MUST edit words + hints) ---------- */
