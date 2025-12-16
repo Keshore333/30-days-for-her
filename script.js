@@ -279,6 +279,31 @@ days[7] = {
   `
 };
 
+// Day 9 custom content - House Tour Vlog (Embedded)
+days[8] = {
+  day: 9,
+  title: "Come Inside My World",
+  type: "Vlog",
+  content: `
+    <p>Hii babyy,</p>
+
+    <p>I wanted to do something different today.</p>
+
+    <p>Use headphones</p>
+
+    <div class="video-wrapper">
+      <iframe
+        src="https://www.youtube.com/embed/SM9Yk7udfAY"
+        title="My House Tour"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+      </iframe>
+    </div>
+
+    <p>I hope this made the distance feel smaller.</p>
+  `
+};
 
 
 
