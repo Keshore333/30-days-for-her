@@ -305,6 +305,36 @@ days[8] = {
   `
 };
 
+// Day 10 custom content - Barcelona 101
+days[9] = {
+  day: 10,
+  title: "Barcelona 101",
+  type: "Love",
+  content: `
+    <p>Hey babyy,</p>
+
+    <p>Since it’s Day 10, I think it’s time you learned something important.</p>
+
+    <p><strong>Top 10 Barcelona facts you must know.</strong>  
+    (This is compulsory. Viva will be conducted later tonight.)</p>
+
+    <ol>
+      <li> Fact 1 — All fans of FC Barcelona are called culers.</li>
+      <li> Fact 2 — Slogan of our club is "Més que un club" which means "More than a club".</li>
+      <li> Fact 3 — La Masia is the name of the football academy of FC Barcelona that trains young players (from under 8yo to under 21yo) and the best of the best from them is promoted to the main team, like, Messi, Lamine yamal etc.</li>
+      <li> Fact 4 — Some of the ex-players of FCB that you should remember - Messi, Iniesta, Xavi, Busquets, Ronaldinho, Neymar.</li>
+      <li> Fact 5 — El clasico (Real madrid vs Barca) is more than just a match, its 100years of rivalry. Fight between the 'government' and the people, the entitled vs the humble.</li>
+      <li> Fact 6 — FC Barcelona/Barca is owned by the people. Unlike any other sports team where a billionare owns it. Barcelona is owned by hundreds of thousands of people who pays a certain amount every year. (Search who owns barca in google)</li>
+      <li> Fact 7 — The people of catalonia (a state in spain in which barcelona is located) were the creators of the club. So comes the slogan "Visca el Barça, visca Catalunya!" meaning "Long live Barca, long live catalonia".</li>
+      <li> Fact 8 — Clubs we/I hate - Real madrid, PSG, Liverpool, Chelsea (etc, but i dont hate many teams)</li>
+      <li> Fact 9 — Our iconic stadium is called "Camp Nou" and its currently rebuilding- as you know.</li>
+      <li> Fact 10 — Black days in Barca recent history - 5th August 2021, 14th Aug 2020, 7th May 2019, 10th April 2018, 6th May 2009. (special mention - 7th May 2025)</li>
+    </ol>
+
+    <p>Revision is advised.  
+    Viva will be oral. I'll call you tonight.</p>
+  `
+};
 
 
 /* ---------- PUZZLE CONFIG (you MUST edit words + hints) ---------- */
