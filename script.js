@@ -336,6 +336,36 @@ days[9] = {
   `
 };
 
+// Day 11 custom content - Photo Categories
+days[10] = {
+  day: 11,
+  title: "How I See You",
+  type: "Gallery",
+  content: `
+    <p>As you asked.. here they are.</p>
+
+    <p><strong>Cute</strong></p>
+    <img src="media/day11/cute1.jpg" class="letter-img">
+    <img src="media/day11/cute2.jpg" class="letter-img">
+
+    <p><strong>Beautiful</strong></p>
+    <img src="media/day11/beautiful1.jpg" class="letter-img">
+    <img src="media/day11/beautiful2.jpg" class="letter-img">
+
+    <p><strong>Hot</strong></p>
+    <img src="media/day11/hot1.jpg" class="letter-img">
+    <img src="media/day11/hot2.jpg" class="letter-img">
+
+    <p><strong>Favourite</strong></p>
+    <img src="media/day11/fav1.jpg" class="letter-img">
+    <img src="media/day11/fav2.jpg" class="letter-img">
+
+    <p>Same person.  
+    Different reasons.  
+    All mine.</p>
+  `
+};
+
 
 /* ---------- PUZZLE CONFIG (you MUST edit words + hints) ---------- */
 /* Word must be UPPERCASE, only letters, no spaces. */
