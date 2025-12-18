@@ -345,24 +345,26 @@ days[10] = {
     <p>As you asked.. here they are.</p>
 
     <p><strong>Cute</strong></p>
-    <img src="media/day11/cute1.jpg" class="letter-img">
-    <img src="media/day11/cute2.jpg" class="letter-img">
+    <img src="media/images/pic4.jpeg" class="letter-img"> 
+    <img src="media/images/pic7.jpeg" class="letter-img">
 
     <p><strong>Beautiful</strong></p>
-    <img src="media/day11/beautiful1.jpg" class="letter-img">
-    <img src="media/day11/beautiful2.jpg" class="letter-img">
+    <img src="media/images/pic1.jpeg" class="letter-img">
+    <img src="media/images/pic6.jpeg" class="letter-img">
 
     <p><strong>Hot</strong></p>
-    <img src="media/day11/hot1.jpg" class="letter-img">
-    <img src="media/day11/hot2.jpg" class="letter-img">
+    <img src="media/images/pic2.jpeg" class="letter-img">
+    <img src="media/images/pic3.jpeg" class="letter-img">
 
     <p><strong>Favourite</strong></p>
-    <img src="media/day11/fav1.jpg" class="letter-img">
-    <img src="media/day11/fav2.jpg" class="letter-img">
+    <img src="media/images/pic5.jpeg" class="letter-img">
+    <img src="media/images/pic8.jpeg" class="letter-img">
 
-    <p>Same person.  
-    Different reasons.  
-    All mine.</p>
+    <p>I realised i dont take many pictures of you. I gotta change that.
+    There's a lot of videos that i find cute, hot etc.. maybe i'll make a separate day for that.</p>
+
+    <p>Also, for me, you look wayyy moree beautiful when you're not posing... without that fake smile you do.
+    I love you babyyy</p>
   `
 };
 
