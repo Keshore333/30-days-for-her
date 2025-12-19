@@ -384,7 +384,7 @@ days[11] = {
 
     <p>
       <a href="https://drive.google.com/file/d/1evE-QfYyLbQXV3cwIu05mJmqLF6qeFxp/view?usp=drive_link" target="_blank">
-        🖥️ Download your wallpaper
+        🖥️ Download it here
       </a>
     </p>
 
