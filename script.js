@@ -368,6 +368,28 @@ days[10] = {
   `
 };
 
+// Day 12 custom content - Wallpaper
+days[11] = {
+  day: 12,
+  title: "Something For Your Screen",
+  type: "Gift",
+  content: `
+    <p>Heyy ushashree,</p>
+
+    <p>I made something for you today.</p>
+
+    <p>Took me a while, but yeahh</p>
+
+    <p>Hope you like it.</p>
+
+    <p>
+      <a href="https://drive.google.com/file/d/1evE-QfYyLbQXV3cwIu05mJmqLF6qeFxp/view?usp=drive_link" target="_blank">
+        
+      </a>
+    </p>
+
+  `
+};
 
 /* ---------- PUZZLE CONFIG (you MUST edit words + hints) ---------- */
 /* Word must be UPPERCASE, only letters, no spaces. */
