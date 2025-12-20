@@ -391,6 +391,36 @@ days[11] = {
   `
 };
 
+// Day 13 custom content - Gentle reminders
+days[12] = {
+  day: 13,
+  title: "On Days You Forget",
+  type: "Letter",
+  content: `
+    
+    <p>The days when you feel a little unsure,  
+    a little tired,  
+    or a little less than yourself.</p>
+
+    <p>On those days, I want you to remember a few things.</p>
+
+    <p>1. You've been through soo muchh than most people... You're a lot more stronger than you think. </p>
+    <p>2. No matter the situation, you've dealt it gracefully.. </p>
+    <p>3. You're loving, you're caring.. and you always do what you think is right. which i admire..</p>
+    <p>4. I feel relaxed in your presence. You make me feel like the luckiest guy in the whole worldd.. You make me feel seen and heard.</p>
+    <p> Baby, you give yourself less credit than you should.. you're one of the most self disciplined person i've ever seen and i'm grateful to be with you.
+    To handle both hardships from outside, from within and from your family.. that takes a lottt to do so.. and most people would just break down.. but not you..
+    you've come so far.. IM PROUD OF YOU</p>
+
+    <p>You don’t have to be more.  
+    You don’t have to be different.</p>
+
+    <p>You’re already enough — even on the days it doesn’t feel like it.</p>
+
+    <p>I’m here.</p>
+  `
+};
+
 /* ---------- PUZZLE CONFIG (you MUST edit words + hints) ---------- */
 /* Word must be UPPERCASE, only letters, no spaces. */
 
