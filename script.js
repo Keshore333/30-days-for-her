@@ -427,7 +427,7 @@ days[13] = {
   type: "Reveal",
   content: `
 
-    <p>These are pictures you haven’t seen of me. Enjoy</p>
+    <p>These are embarrassing pictures of me. Enjoy.. Fuckinn hellll</p>
 
     <img src="media/images/pics1.jpeg" class="letter-img">
     <img src="media/images/pics2.jpeg" class="letter-img">
