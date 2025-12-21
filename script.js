@@ -420,6 +420,32 @@ days[12] = {
     <p>I’m here.</p>
   `
 };
+// Day 14 custom content - Sides of Me
+days[13] = {
+  day: 14,
+  title: "Sides of Me You Haven’t Seen",
+  type: "Reveal",
+  content: `
+
+    <p>These are pictures you haven’t seen of me. Enjoy</p>
+
+    <img src="media/day14/pic1.jpg" class="letter-img">
+    <img src="media/day14/pic2.jpg" class="letter-img">
+    <img src="media/day14/pic3.jpg" class="letter-img">
+    <img src="media/day14/pic4.jpg" class="letter-img">
+    <img src="media/day14/pic4.jpg" class="letter-img">
+
+    <p>bonus content: me questioning my existence...</p>
+
+    <video controls class="letter-video">
+      <source src="media/day14/me.mp4" type="video/mp4">
+      Your browser doesn't support video playback.
+    </video>
+
+    <p>Just me.  
+    No filter.</p>
+  `
+};
 
 /* ---------- PUZZLE CONFIG (you MUST edit words + hints) ---------- */
 /* Word must be UPPERCASE, only letters, no spaces. */
