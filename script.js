@@ -429,21 +429,20 @@ days[13] = {
 
     <p>These are pictures you haven’t seen of me. Enjoy</p>
 
-    <img src="media/day14/pic1.jpg" class="letter-img">
-    <img src="media/day14/pic2.jpg" class="letter-img">
-    <img src="media/day14/pic3.jpg" class="letter-img">
-    <img src="media/day14/pic4.jpg" class="letter-img">
-    <img src="media/day14/pic4.jpg" class="letter-img">
+    <img src="media/images/pics1.jpeg" class="letter-img">
+    <img src="media/images/pics2.jpeg" class="letter-img">
+    <img src="media/images/pics3.jpeg" class="letter-img">
+    <img src="media/images/pics4.jpeg" class="letter-img">
+    <img src="media/images/pics5.jpeg" class="letter-img">
 
     <p>bonus content: me questioning my existence...</p>
 
     <video controls class="letter-video">
-      <source src="media/day14/me.mp4" type="video/mp4">
+      <source src="media/images/vid1.mp4" type="video/mp4">
       Your browser doesn't support video playback.
     </video>
 
-    <p>Just me.  
-    No filter.</p>
+    <p>Wipe that fuckin smile off your face </p>
   `
 };
 
