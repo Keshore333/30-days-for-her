@@ -445,6 +445,26 @@ days[13] = {
     <p>Wipe that fuckin smile off your face </p>
   `
 };
+days[14] = {
+  day: 15,
+  title: "Would you rather?",
+  type: "explicit",
+  content: `
+  <p> hiii, today.. its gonna be simple.. just answer these questions (no "neither", just choose one and tell me why)</p>
+
+  <p>1. Would you rather have sex in the morning, or at night? </p>
+  <p>2. Would you rather give oral sex, or receive it? </p>
+  <p>3. Would you rather spit, or swallow? </p>
+  <p>4. Would you rather watch girl on girl porn, or guy on guy porn, to turn yourself on? </p>
+  <p>5. Would you rather have period sex or a golden shower where you let me pee over you? </p>
+  <p>6. Would you want to be spanked in bed, or bring food into bed? </p>
+  <p>7. Would you rather have kinky sex or romantic sex for the rest of your life, if you could only pick one? </p>
+  <p>8. Would you rather eat my ass or get your ass eaten? </p>
+  <p>9. Would you rather get mouth fucked till you black out or do anal? </p>
+  <p>10. Would you rather use handcuffs or blindfolds? </p>
+  
+  `
+};
 
 /* ---------- PUZZLE CONFIG (you MUST edit words + hints) ---------- */
 /* Word must be UPPERCASE, only letters, no spaces. */
