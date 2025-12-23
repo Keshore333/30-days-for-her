@@ -465,7 +465,26 @@ days[14] = {
   
   `
 };
-
+days[15] = {
+  day: 16,
+  title: "I'm sorry",
+  type: "Letter",
+  content: `Hii ushashree,
+  Look, im sooo sorryyyy. I came out today in the morning.. like i told you. 
+  I woke up at 7.30am and then got ready, and had to wait on the road for 30mins for sreeja (what happiness do they get by making me wait on the road bruh 😭😂)
+  then we went yo my college, around 10.45 and i was roaming around for signatures on a letter and then yeah, we left.
+  we came to the forum mall near our college, for sreeja to meet with her frnd Charan. And it was a bit awkward cause we don't know eachother, so
+  i said "i'll go somewhere and give you guys space to catch up" since they havent met in 1.5years.
+  and i went to a bookstore to buy sreeja a present and i bought this book called "A man called Love". idk anything about it, it seemed nice.
+  and i realised ohhhh damnnnnn i haven't updated today's content.. so yeH
+  im at the food court, with a butter chicken wrap. And im making this using my phone 😭😭.
+  so yeah, i cant do anything creative.. sorry about that. 
+  Tbh, i miss you a lot more than when you left. like, these past few days i miss you so much more than before.
+  can't wait to stick my tongue down your throat and fart on your face. 
+  i love you
+  
+Your handsome BF`
+};
 /* ---------- PUZZLE CONFIG (you MUST edit words + hints) ---------- */
 /* Word must be UPPERCASE, only letters, no spaces. */
 
