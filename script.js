@@ -485,6 +485,34 @@ days[15] = {
   
 Your handsome BF`
 };
+
+days[16] = {
+  day: 17,
+  title: "Something Something",
+  type: "Poem",
+  content: `
+    <p>Hey baby, here's something for you</p>
+
+    <p>If all that is green, turns to ash
+    And all that is blue, fades away
+    I'd still love you.
+    
+    If all of my flesh rots away
+    and all of the people, forget my name
+    I'd still love you.
+    
+    When night lasts forever
+    and light fades away
+    and all our senses lose their way
+    You'd still feel my love.
+    
+    My dear, when I’m buried six feet under,
+    when the worms start eating away,
+    every inch of my body whispers stories of you.</p>
+
+    <p>Keshore</p>
+  `
+};
 /* ---------- PUZZLE CONFIG (you MUST edit words + hints) ---------- */
 /* Word must be UPPERCASE, only letters, no spaces. */
 
