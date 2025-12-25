@@ -513,6 +513,31 @@ days[16] = {
     <p>Keshore</p>
   `
 };
+// Day 18 custom content - Quiet observations
+days[17] = {
+  day: 18,
+  title: "Subtle Things I Notice About You",
+  type: "Observations",
+  content: `
+    <p>This isn’t about big moments.</p>
+
+    <p>It’s about the small things —  
+    the ones people usually miss.</p>
+
+    <p>1. Your consciousness about your teeth. How you try to hide it while laughing.. but recently you do it less and less cause of how comfortable you are with me.</p>
+    <p>2. You used to actively avoid eye contact, but now, you cant take your eyes off me and neither can i.</p>
+    <p>3. Even though your back hurts when you hug me while riding, and its an uncomfortable position.. you still do it. </p>
+    <p>4. Your right boob is more perkier while your left boob is slightly bigger. (I LOVE EM BOTH THE SAMEEE)</p>
+    <p>5. You're really mature for your age and childish at the same time.. anyway, you'll always be my babyyy</p>
+    <p>6. You close your eyes while kissing, actually feeling everything intensly.</p>
+    <p>7. Though you may be very strong and portray yourself as such... you feel a lot and hurt inside.</p>
+    <p>8. OH SHUT UP, THE MORE I THINK ABOUT YOU, THE MORE I MISS YOUU.. SO THATS ALL YOU GET TODAY, BYEEE</p>
+
+    
+  `
+};
+
+
 /* ---------- PUZZLE CONFIG (you MUST edit words + hints) ---------- */
 /* Word must be UPPERCASE, only letters, no spaces. */
 
