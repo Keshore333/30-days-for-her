@@ -536,6 +536,32 @@ days[17] = {
     
   `
 };
+// Day 19 custom content - Future imagining
+days[18] = {
+  day: 19,
+  title: "If We Ever Built a Life Together",
+  type: "Future",
+  content: `
+    <p>Let's decide now, come on. Not anything delulu tho</p>
+
+
+    <p>if we were to live together, i imagine our home to be an apartment. Not like a 14 floors one with a lot of families living there,, but a spacious one with a private community.</p>
+
+    <p>Pets - a dog and a cat. two dogs would be nice tho. german shepard or golden retriever.. and for cat, whatever you wish, except ginger ones. lol.</p>
+
+    <p>Two kids, first a girl, next a boy. naming them is a big process that we should do in person. 
+    speaking of names, Ushashree keshore sounds kinda nice ngl.</p>
+
+    <p>atleast one movie night a week, definietly a kareoke night with dancing, cook together, atleast 4 times a week sex. once a day you should give me head randomly. without even me asking. and i shall do the same.</p>
+
+    <p>we can invite your mom over for dinner sometime, same with my mom. And yours and my frnds too sometimes.</p>
+
+    <p>i'll give you massages often, randomly. We can actually go to a spa together hahaha since ive never been to one.
+    go to the gym together, fight over who gets the blanket (you'll probably yank it from me while sleeping), shower together.</p>
+
+    <p> damn, this one page isnt gonna be enough. we'll talk on whatsapp about the rest. I CANT WAIT TO BUILD A HOME WITH YOU...</p>
+  `
+};
 
 
 /* ---------- PUZZLE CONFIG (you MUST edit words + hints) ---------- */
