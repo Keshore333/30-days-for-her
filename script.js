@@ -571,25 +571,28 @@ days[19] = {
   content: `
     <p>Don't ask me how i got these.</p>
 
-    <img src="media/day20/fav1.jpg" class="letter-img">
-    <img src="media/day20/fav2.jpg" class="letter-img">
-    <img src="media/day20/fav3.jpg" class="letter-img">
-    <img src="media/day20/fav4.jpg" class="letter-img">
+    <p> damnnn, so beautifulll</p>
+    <img src="media/images/picss2.jpeg" class="letter-img"> 
 
-    <p>And these videos…  
-    I don’t know. They just made me smile.</p>
+    <p> look at that ponytail bruhh, damnnnnnnn cuteee </p>
+    <img src="media/images/picss4.jpeg" class="letter-img">
 
+    <p>Nicee sareee </p>
+    <img src="media/images/picss3.jpeg" class="letter-img">
+
+    <p>look at you, trying hard to pose good but failing miserably... awww my babbyyy</p>
+    <img src="media/images/picss5.jpeg" class="letter-img">
+
+    <p>DAMNNNN, BAddieeee</p>
+    <img src="media/images/picss1.jpeg" class="letter-img">
+
+    <p> OHH MY FUCKINGG GODDD, SUCH A SEXYYYYYY GIRLLLLL</p>
     <video controls class="letter-video">
-      <source src="media/day20/fav1.mp4" type="video/mp4">
+      <source src="media/images/vids1.mp4" type="video/mp4">
     </video>
 
-    <video controls class="letter-video">
-      <source src="media/day20/fav2.mp4" type="video/mp4">
-    </video>
 
-    <p>These are my favourites now.</p>
-
-    <p>I wanted you to know that.</p>
+    <p>FYI, I've got atleast 20 more</p>
   `
 };
 
