@@ -563,6 +563,35 @@ days[18] = {
   `
 };
 
+// Day 20 custom content - Favourite pics
+days[19] = {
+  day: 20,
+  title: "Some New Favourite Pictures of You",
+  type: "Gallery",
+  content: `
+    <p>Don't ask me how i got these.</p>
+
+    <img src="media/day20/fav1.jpg" class="letter-img">
+    <img src="media/day20/fav2.jpg" class="letter-img">
+    <img src="media/day20/fav3.jpg" class="letter-img">
+    <img src="media/day20/fav4.jpg" class="letter-img">
+
+    <p>And these videos…  
+    I don’t know. They just made me smile.</p>
+
+    <video controls class="letter-video">
+      <source src="media/day20/fav1.mp4" type="video/mp4">
+    </video>
+
+    <video controls class="letter-video">
+      <source src="media/day20/fav2.mp4" type="video/mp4">
+    </video>
+
+    <p>These are my favourites now.</p>
+
+    <p>I wanted you to know that.</p>
+  `
+};
 
 /* ---------- PUZZLE CONFIG (you MUST edit words + hints) ---------- */
 /* Word must be UPPERCASE, only letters, no spaces. */
