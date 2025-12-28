@@ -596,6 +596,33 @@ days[19] = {
   `
 };
 
+days[20] = {
+  day: 21,
+  title: "10 Rules of our relationship",
+  type: "Rules",
+  content: `
+    <p>These are the 10 rules of our relationship that neither of us should break.</p>
+
+    <p>This isn't in any order.. just 10 rules that came to my mind.</p>
+
+    <p>1. Never stop being honest, even when the truth is uncomfortable or awkward.</p>
+    <p>2. Always be transparent about everything. Where we're going, who we're going with, what we're gonna do.. etc.</p>
+    <p>3. Always talk about our feelings, good or bad. instead of waiting for the other person to "realize" and staying silent till then. Never go to sleep without solving it.</p>
+    <p>4. Never forget that we’re a team, not opponents. It's always us against the problem, not me againt you.</p>
+    <p>5. Never compare our relationship to others.</p>
+    <p>6. Always choose eachother's comfort and feelings over anything or anyone.</p>
+    <p>7. Never talk about our relationship issues with anyone else.</p>
+    <p>8. Never let pride stop us from apologizing.</p>
+    <p>9. Never make jokes about each other’s insecurities.</p>
+    <p>10. Never have an arguement, rather a conversation. No shouting, No assuming, No anger. Always take time to gather our thoughts.</p>
+
+    <p> I didn't say never cheat because thats a given and we already made a promise.</p>
+
+    <p> I Love You my sweet baby</p>
+
+    
+  `
+};
 /* ---------- PUZZLE CONFIG (you MUST edit words + hints) ---------- */
 /* Word must be UPPERCASE, only letters, no spaces. */
 
