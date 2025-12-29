@@ -623,6 +623,28 @@ days[20] = {
     
   `
 };
+
+// Day 22 custom content - Gratitude
+days[21] = {
+  day: 22,
+  title: "Things I’m Grateful For Lately",
+  type: "Calm",
+  content: `
+
+    <p>Waking up to your good morning text. If i wake up late, your text will be there. If i wake up early, i know for sure if i wait, you'll text me good morning.</p>
+    <p>Knowing that there's someone with whom i can have conversations about anything and they won't be bored. </p>
+    <p>Getting complimented on even if i look like tarzan. I've never gotten this many compliments before.</p>
+    <p>I'm grateful that i can stop worrying about will i ever find love or finding someone to be with. I can finally focus on other things.</p>
+    <p>Having someone who actually sees the true me. Someone with whom i can finally remove the mask and be myself. and not worry about being taken advantage of or not being taken seriously.</p>
+    <p>For how you normalised saying i love you for me. All of my traumas are slowly getting healed because of you.</p>
+    <p>I'm grateful for you. And the little things you do. From sending me pics whenever i ask wyd, to loving me so much for who i am that finally, in my life, for the first time, 'I' feel loved. not who i portray to be. and i feel like i deserve this love</p>
+
+    <p>These things don’t announce themselves.</p>
+
+    <p>But they make my days better.</p>
+  `
+};
+
 /* ---------- PUZZLE CONFIG (you MUST edit words + hints) ---------- */
 /* Word must be UPPERCASE, only letters, no spaces. */
 
