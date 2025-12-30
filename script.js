@@ -644,6 +644,20 @@ days[21] = {
     <p>But they make my days better.</p>
   `
 };
+// Day 23 custom content - Reflections from distance
+days[22] = {
+  day: 23,
+  title: "how well you know me",
+  type: "Reflection",
+  content: `
+    <p>
+      <a href="https://take.quiz-maker.com/QPXRBDEQO" target="_blank">
+        🖥️ see it here
+      </a>
+    </p>
+
+  `
+};
 
 /* ---------- PUZZLE CONFIG (you MUST edit words + hints) ---------- */
 /* Word must be UPPERCASE, only letters, no spaces. */
