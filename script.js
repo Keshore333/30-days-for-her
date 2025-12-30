@@ -650,11 +650,10 @@ days[22] = {
   title: "how well you know me",
   type: "Reflection",
   content: `
-    <p>
+    
       <a href="https://take.quiz-maker.com/QPXRBDEQO" target="_blank">
-        🖥️ see it here
+        see it here
       </a>
-    </p>
 
   `
 };
