@@ -659,6 +659,40 @@ days[22] = {
   `
 };
 
+days[23] = {
+  day: 24,
+  title: "Heart felt Letter",
+  type: "Letter",
+  content: `
+    <p>Its 2:49am right now. And im crying.</p>
+
+    <p>Yes. I am. and i have no shame in admitting that. I never let anyone know this but with you.. i have no problem admitting that.
+    allowing me to Show you my vulnerable side is one of the biggest gift you could ever give me. 
+    Its not like "im tearing up", im actually crying. Tears cant seem to stop coming.</p>
+
+    <p>And the reason im crying now, is because of you. YES, YOU.
+    I was scrolling through instagram and its all LDR reels, and love reels. I've sent you some. 
+    Then i wanted to see you, so i started looking at our pics and vids together. The ones we took on that station.
+    That made me miss you a lot, but nah, that didn't do it.
+    Then the one we took at that restobar that night. where i kiss you on the cheek, you shrink your eyes like something got in them, so i kiss your eye
+    then you pull me by my chin and kiss me on the lips... i then softly hold your face with both my hands and kiss you. and then while im holding your face, 
+    i look at your eyes and say "i love you" and you say "i love you more baby".</p>
+
+    <p> That fuckin did it for me. oh god, i never thought i'd miss someone this much anymore. I never thought i'd love someone this much or someone would love me.
+    why would i ever try to be with another woman when i have you? Nothing else is ever needed. Like, we get only one life.. and its our first time living it as well..
+    so why not love eachother as much as we could? Why not be vulnerable and witness eachother without any walls? I FUCKING LOVE YOU. and Its more of a commitment than a feeling.
+    Feeling can change, but commitment never does. And i say this to you ushashree.. IM COMMITTED TO YOU.</p>
+
+    <p> now, i know im making soo much effort and maybe i should slow down a bit. but im kinda feeling that you could put some more than you do rn. im not saying you're not, because you def are.
+    the good morning texts everyday for the past 3 months, the random pics, letting me know what happens everyday... i am grateful. But i have to be honest with you and tell you what im feeling..
+    and yeah, with this website and other things that im doing... i feel like you could do some too.</p>
+
+    <p> You cannot imagine how much you mean to me my love. You are a part of me, maybe even half of me. And those 3 words cannot express my love for you enough</p>
+
+    <p>also, i actually took some pics when i cried. Just thought you'd wanna see. I dont wanna attach it here, so.. when you read this, ask me to send </p>
+  `
+};
+
 /* ---------- PUZZLE CONFIG (you MUST edit words + hints) ---------- */
 /* Word must be UPPERCASE, only letters, no spaces. */
 
