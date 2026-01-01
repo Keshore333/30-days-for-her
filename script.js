@@ -693,6 +693,31 @@ days[23] = {
   `
 };
 
+days[24] = {
+  day: 25,
+  title: "My Secrets",
+  type: "Letter",
+  content: `
+    <p>Hiii </p>
+
+    <p>im gonna tell you a few of my secrets okay?</p>
+
+    <p>1. i have a really bad digestion.. so if we're somewhere and you smell fart.. 75% its me 😅</p>
+
+    <p>2. i got caught smoking papers like its cigrattes, and next yr, watching nude women on phone. both by my brother.</p>
+
+    <p>3. in my first two years of college, i was addicted to asmr. (not rn)</p>
+
+    <p>4. I hate myself. and i was a shitty kid growing up. a real asshole. Im suprised how i still have school frnds.</p>
+
+    <p>That’s all i can think of. Ofc, there are some i cant say. but yeah.
+    I feel like i did a shitty job today, regarding this website..
+    i gotta do more properly</p>
+
+    <p>Tell me your 4 secrets on whatsapp</p>
+  `
+};
+
 /* ---------- PUZZLE CONFIG (you MUST edit words + hints) ---------- */
 /* Word must be UPPERCASE, only letters, no spaces. */
 
