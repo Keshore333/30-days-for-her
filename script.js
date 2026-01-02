@@ -718,6 +718,20 @@ days[24] = {
   `
 };
 
+days[25] = {
+  day: 26,
+  title: "See for yourself",
+  type: "Video",
+  content: `
+  <p>Hii, sorry for the delay. Hope this makes up for it</p>
+  <p> 
+   <a href="https://drive.google.com/file/d/1TTEW4JEJRsSwlvSJdedP8Xowjqpbe5zs/view?usp=sharing" target="_blank">
+      see it here
+          </a>
+   </p>
+  `
+};
+
 /* ---------- PUZZLE CONFIG (you MUST edit words + hints) ---------- */
 /* Word must be UPPERCASE, only letters, no spaces. */
 
