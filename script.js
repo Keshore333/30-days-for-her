@@ -732,6 +732,35 @@ days[25] = {
   `
 };
 
+days[26] = {
+  day: 27,
+  title: "Song for you",
+  type: "",
+  content: `
+  <p>ykw, ima freestyle a song rn for you. sorry for the delay</p>
+  <p> oh I, found you in a place
+  i never though you'll stay
+  i didnt wanna lose you away
+
+  and i told you its not a date
+  even though it was anyway
+  i lied through my teeth that day
+
+  seeing you walk down those stairs
+  i waited all this time
+
+  for someone to make me feel alive
+  i guess i found the one
+
+  oh baby please, hold me every night
+  i've been through much i wanna say goodnight
+
+  oh baby please, let me make you mine
+  i'll treat you right and love you every time
+   
+   </p>
+  `
+};
 /* ---------- PUZZLE CONFIG (you MUST edit words + hints) ---------- */
 /* Word must be UPPERCASE, only letters, no spaces. */
 
